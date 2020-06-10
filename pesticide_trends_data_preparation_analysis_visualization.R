@@ -1,8 +1,13 @@
 ################################################################################
 # R Code related to                                                            #
 # Tracking societal concerns on pesticides – A Google Trends analysis          #
+# by Sergei Schaub, Robert Huber & Robert Finger                               # 
+# 2020                                                                         #
+# Environmental Research Letters                                               #
 # -----------------------------------------------------------------------------#
 # r script for data preparation, analysis and visualization                    #
+# 2020, ETH Zurich                                                             #
+# developed by Sergei Schaub                                                   #  
 ################################################################################
 
 # table of content:
